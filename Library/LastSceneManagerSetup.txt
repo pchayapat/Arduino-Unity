@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/FOBIFACE.unity
+- path: Assets/Scenes/FanControl.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0
